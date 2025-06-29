@@ -1,0 +1,123 @@
+div {
+    border: 1px solid;
+    margin: 0px;
+}
+
+span {
+    margin-right: 6px;
+}
+
+.menu {
+    display: inline-block;
+    width: 20%;
+    height: 500px;
+    position: absolute;
+}
+
+.cabecalho1 {
+    display: inline-block;
+    width: 98%;
+}
+
+.cabecalho2 {
+    display: inline-block;
+    width: 98%;
+}
+
+.cabecalhoTitulo {
+    background-color: #dcdcdc;
+    margin: 5px;
+}
+
+.cabecalhoTituloDestaque {
+    background-color: black;
+    color: white;
+}
+
+.conteudo {
+    display: inline-block;
+    width: 98%;
+}
+
+.principal {
+    display: inline-block;
+    width: 78%;
+    margin-left: 21%;
+}
+
+.boxPesquisa {
+    border: 1px solid blue;
+    border-radius: 20px 0px 0px 20px;
+    width: 35%;
+}
+
+.boxConteudoMain {
+    display: inline-block;
+    width: 30%;
+    height: 220px;
+    padding: 5px;
+}
+
+.boxConteudo1 {
+    border-radius: 10px;
+    height: 150px;
+    border-radius: 15px;
+    background-image: url('img001.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxConteudo2 {
+    border-radius: 10px;
+    height: 150px;
+    border-radius: 15px;
+    background-image: url('img002.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxConteudo3 {
+    border-radius: 10px;
+    height: 150px;
+    border-radius: 15px;
+    background-image: url('img003.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxConteudo4 {
+    border-radius: 10px;
+    height: 150px;
+    border-radius: 15px;
+    background-image: url('img004.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxConteudo5 {
+    border-radius: 10px;
+    height: 150px;
+    border-radius: 15px;
+    background-image: url('img005.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxConteudo6 {
+    border-radius: 10px;
+    height: 150px;
+    border-radius: 15px;
+    background-image: url('img006.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxTituloRodape {
+    font-weight: bold;
+}
